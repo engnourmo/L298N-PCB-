@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "L298N")(type "KiCad")(uri "D:/assignments/L298N_Motor_Driver/L298N.kicad_sym")(options "")(descr ""))
+)

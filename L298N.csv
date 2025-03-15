@@ -1,0 +1,15 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"U2";"TO127P2020X500X2100-15";1;"L298N";;;
+2;"U1";"TO254P1524X483-4N";1;"LM7805_TO220";;;
+3;"R1";"R_0402_1005Metric";1;"R";;;
+4;"J7";"TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal";1;"Motor2";;;
+5;"J6";"TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal";1;"Motor1";;;
+6;"J5";"PinHeader_1x04_P1.27mm_Vertical";1;"Conn_01x04_Pin";;;
+7;"J4";"PinHeader_1x02_P1.27mm_Vertical";1;"EnableB";;;
+8;"J3";"PinHeader_1x02_P1.27mm_Vertical";1;"EnableA";;;
+9;"J2";"TerminalBlock_Phoenix_MKDS-1,5-3_1x03_P5.00mm_Horizontal";1;"Screw_Terminal_01x03";;;
+10;"J1";"PinHeader_1x02_P1.27mm_Vertical";1;"5V enable jumper";;;
+11;"HS1";"HSINK_SK_95_25_STS_TO_220";1;"Heatsink";;;
+12;"D9,D8,D7,D6,D5,D4,D3,D2";"D_PowerDI-123";8;"D";;;
+13;"D1";"LED_0201_0603Metric";1;"LED";;;
+14;"C2,C1";"CP_Radial_D6.3mm_P2.50mm";2;"C_Polarized";;;
